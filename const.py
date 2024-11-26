@@ -1,0 +1,1 @@
+coins = ["BTC", "ETH", "SOL", "XRP", "XRP", "DOGE", "ADA", "AVAX", "TON", "SHIB"]
