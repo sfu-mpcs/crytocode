@@ -1,4 +1,4 @@
-coins = ["BTC", "ETH", "SOL", "XRP", "XRP", "DOGE", "ADA", "AVAX", "TON", "SHIB"]
+COINS = ["BTC", "ETH", "SOL", "XRP", "XRP", "DOGE", "ADA", "AVAX", "TON", "SHIB"]
 
 
 COINBASE_CHANNEL_NAMES = {
